@@ -19,7 +19,7 @@ This project implements a vehicle detection and license plate recognition system
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/mohamedd-adel/LicensePlateDetector.git)>
    cd <repository-directory>
    ```
 
