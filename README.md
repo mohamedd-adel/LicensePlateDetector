@@ -49,6 +49,11 @@ This project implements a vehicle detection and license plate recognition system
    ```bash
    python visualize.py
    ```
+   ### Important Note
+
+Make sure to change the video path in both `main.py` and `visualize.py` to the path where you downloaded the video files. 
+
+
 
 ## Future Enhancements
 
