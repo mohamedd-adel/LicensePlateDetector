@@ -1,3 +1,5 @@
+Here's the updated README file with the correct repository link:
+
 # License Plate Recognition Project
 
 This project implements a vehicle detection and license plate recognition system using YOLOv8 and EasyOCR. It processes video files to detect vehicles, extract license plates, and apply optical character recognition (OCR) to read the plate numbers. The detected license plates are then overlaid on the video frames with bounding boxes around both the vehicles and their corresponding plates.
@@ -19,13 +21,17 @@ This project implements a vehicle detection and license plate recognition system
 
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/mohamedd-adel/LicensePlateDetector.git)>
-   cd <repository-directory>
+   git clone https://github.com/mohamedd-adel/LicensePlateDetector.git
+   cd LicensePlateDetector
    ```
 
 2. Install the SORT module:
    Download from [SORT GitHub](https://github.com/abewley/sort).
 
+3. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
