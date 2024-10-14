@@ -1,5 +1,3 @@
-Here's the updated README file with the correct repository link:
-
 # License Plate Recognition Project
 
 This project implements a vehicle detection and license plate recognition system using YOLOv8 and EasyOCR. It processes video files to detect vehicles, extract license plates, and apply optical character recognition (OCR) to read the plate numbers. The detected license plates are then overlaid on the video frames with bounding boxes around both the vehicles and their corresponding plates.
